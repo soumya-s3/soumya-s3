@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soumyabrata Hazra
 - 👀 Interested in Quantum Computing
 - 🌱 Qiskit Advocate
-- 💞️ Looking to collaborate on Quantum Algorithm projects
+- 💞️ Algorithms & other quantum stuff
 - 📫 Reach me \
 LinkedIn : https://www.linkedin.com/in/soumyabrata-hazra-99aa5a227
 Mail : soumyabrata.hazra@research.iiit.ac.in
