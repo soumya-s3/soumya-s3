@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soumyabrata Hazra
-- 👀 Interested in Quantum Algorithm/Information
+- 👀 Interested in Quantum stuff
 - 🌱 Qiskit Advocate
 - 📫 Reach me \
 LinkedIn : https://www.linkedin.com/in/soumyabrata-hazra-99aa5a227 \
